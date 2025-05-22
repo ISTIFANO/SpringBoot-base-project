@@ -2,7 +2,6 @@ package com.example.Spring_base_project.Service.Implementation;
 
 import com.example.Spring_base_project.Entity.Produit;
 import com.example.Spring_base_project.Repositery.ProduitRepositery;
-import com.example.Spring_base_project.Repositery.ProduitRepository;
 import com.example.Spring_base_project.Service.IProduit;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

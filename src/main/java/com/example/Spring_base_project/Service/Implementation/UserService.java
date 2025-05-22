@@ -41,6 +41,7 @@ public class UserService implements IUser {
     @Override
     public void deleteUser(Long id) {
         userRepositery.deleteById(id);
+
     }
 
     @Override
